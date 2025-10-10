@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Yanjun Liu (Owen, 刘彦君) and I am currently a Ph.D. student at The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Hongliang Ren and Prof. Jiewen Lai. I obtained my Master’s degree in Artificial Intelligence from Tsinghua University in 2024, under the supervision of Prof. Wenming Yang, and my Bachelor’s degree in Robotics from Northeastern University in 2021. From August 2024 to July 2025, I worked as a Research Assistant in the Department of Electronic Engineering at CUHK. My research interests focus on the design and development of continuum robots, robotic control systems, and human-robot interaction, with a particular focus on their applications in minimally invasive surgery and endoscopic procedures. For inquiries or collaboration opportunities, you can contact me via email [lyj19990319@126.com](mailto:lyj19990319@126.com) or [yanjunliu@link.cuhk.edu.hk](mailto:yanjunliu@link.cuhk.edu.hk).
+I am Yanjun Liu (Owen, 刘彦君) and I am currently a Ph.D. student at The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Hongliang Ren and Prof. Jiewen Lai. I obtained my Master’s degree from Tsinghua University in 2024, under the supervision of Prof. Wenming Yang, and my Bachelor’s degree from Northeastern University in 2021. From August 2024 to July 2025, I worked as a Research Assistant in the Department of Electronic Engineering at CUHK. 
+
+My research interests focus on the design and development of continuum robots, robotic control systems, and human-robot interaction, with a particular focus on their applications in minimally invasive surgery and endoscopic procedures. For inquiries or collaboration opportunities, you can contact me via email [lyj19990319@126.com](mailto:lyj19990319@126.com) or [yanjunliu@link.cuhk.edu.hk](mailto:yanjunliu@link.cuhk.edu.hk).
 
 ***
 
