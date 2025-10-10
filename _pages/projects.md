@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Optimal Control of RCM-constrained Redundant Manipulator in RA-MIS
-* 08/2022 - Present
+* 08/2022 - 09/2023
 
 Robot-Assisted Minimally Invasive Surgery (RA-MIS) uses long and slender surgical tools (e.g., endoscope) rigidly mounted on the robot's end-effector, which are controlled by the surgeon via a hands-on or tele-operation setup. During a RA-MIS, the surgical tool performs tasks inside the patient’s body. Simultaneously, the tool movements are constrained by the trocar where the position deviation must be minimized, in order to avoid any injury to the patient. The kinematic constraint discussed above is commonly known as the Remote Center of Motion (RCM) constraint. The detailed illustration of RA-MIS components is shown in Figure 1.
 
@@ -24,9 +24,8 @@ In this project, the primary research topics include a variety of relevant contr
 + hybrid force-impedance control
 + reactive manipulability-maximizing motion control
 + motion control of rigid-flexible integrated and soft instruments
-+ etc.
 
-The kinematically redundant Emika Frank Panda manipulator is used to study. Currently, our work targets the following two applications:
+The kinematically redundant Emika Frank Panda manipulator is used to study. Our work targets the following two applications:
 
 (a) QP-based admittance control in hands-on RA-MIS
 
@@ -41,8 +40,6 @@ By decomposing the cartesian space into a free motion space and a constraint spa
 (b) Prototype of compliant robot-assisted laparoscope-holder system
 
 The proposed laparoscope-holder system aims to keep the instrument’s tip (represented as the green ball in Figure 3) within the camera horizon. By exploiting the nullspace of redundant manipulators, it features compliant tasks such as reducing the interaction forces at the trocar position, avoiding sudden gestures and restricting elbow motion. To be specific, our system consists of the task-space compliance control (RCM constraint), the nullspace compliance control (elbow motion) and MoCap system with instrument locating algorithm (not shown here). A running demo is shown in Figure 3. 
-
-Our future works in the section will focus on integrating visual servoing, swivel angle motion controller etc.
 
 <p align="center">
   <img width="60%" src="../assets/laparoscope_demo.gif">
@@ -92,7 +89,7 @@ For the trajectory tracking portion, we used the Time Delay Estimation (TDE) met
 
 ## Indoor 3D Scene Understanding and Modelling
 * 08/2020 - 08/2021
-* Publication: one paper submitted to IEEE Trans. on Multimedia, under review
+* Publication: **Y. Liu**, and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection," Signal Processing: Image Communication, vol. 124, pp. 117120, 2024. [[URL](https://www.sciencedirect.com/science/article/pii/S0923596524000213)]
 * Visual Information Processing Lab, SIGS, Tsinghua University
 * Advisor: Prof. Wenming Yang
 
@@ -128,3 +125,4 @@ We proposed a 1D-CNN as the baseline for signal fusion, achieving an accuracy of
 [[IEEE CYBER Paper](https://ieeexplore.ieee.org/abstract/document/9279125/)]
 [[Applied Intelligence Paper](https://link.springer.com/article/10.1007/s10489-020-02170-9)]
 [[Competition News](http://www.rse.neu.edu.cn/2019/1016/c2146a145673/page.htm)]
+
