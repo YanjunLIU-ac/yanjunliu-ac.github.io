@@ -16,21 +16,21 @@ My research interests focus on the design and development of continuum robots, r
 
 Education
 ======
-**Ph.D. student, The Chinese University of Hong Kong, 2025-Present**
+* Ph.D. student, The Chinese University of Hong Kong, 2025-Present
 
-**M.Eng. in Artificial Intelligence, Tsinghua University, 2021-2024** 
+* M.Eng. in Artificial Intelligence, Tsinghua University, 2021-2024
 
-**B.Eng. in Robotics, Northeastern University, 2017-2021** 
+* B.Eng. in Robotics, Northeastern University, 2017-2021
 
 ***
 
 Awards & Honors
 ======
-* National Scholarship &emsp; *2018, 2019*
+* National Scholarship, 2018, 2019
 
-* Top 10 Honor Undergraduate Student &emsp; *2020*
+* Top 10 Honor Undergraduate Student, 2020
 
-* BSEF Outstanding Student Scholarship &emsp; *2020*
+* BSEF Outstanding Student Scholarship, 2020
 
 ***
 
