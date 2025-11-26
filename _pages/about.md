@@ -15,6 +15,7 @@ I am a Ph.D. student from [Department of Electronic Engineering](https://www.ee.
 News
 ======
 [11/2025] Our team has won the Soft Robotics Embodied Intelligence Challenge in IROS 2025.
+
 [08/2025] One paper awarded Best Student Paper Finalist in ICBIR 2025.
 
 ***
