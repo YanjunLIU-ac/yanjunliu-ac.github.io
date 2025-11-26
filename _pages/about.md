@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student from [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and [Prof. Jiewen Lai](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-lai-jiewen). My research interests include the design and development of continuum robots, robotic control systems, human-robot interaction and their applications in surgical procedures. For inquiries or collaboration opportunities, you can contact me via email [lyj19990319@126.com](mailto:lyj19990319@126.com) or [yanjunliu@link.cuhk.edu.hk](mailto:yanjunliu@link.cuhk.edu.hk).
+I am a Ph.D. student from [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and [Prof. Jiewen Lai](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-lai-jiewen). 
+
+My researches focus on the intersection of soft robotics, medical robotics, human-robot interaction and robotic control systems. Specifically, I am interested in developing continuum robot-assisted surgical procedures in ENT, OB/GYN, urology etc. For inquiries or collaboration, you can contact me via email [yanjunliu at link.cuhk.edu.hk](mailto:yanjunliu@link.cuhk.edu.hk).
 
 ***
 
 News
 ======
-[11/2025] Our team has won the Soft Robotics Embodied Intelligence Challenge in IROS 2025.
+<span style="color: #ff6b6b;">[11/2025]</span> Our team has won the Soft Robotics Embodied Intelligence Challenge in IROS 2025.
 
-[08/2025] One paper awarded Best Student Paper Finalist in ICBIR 2025.
+<span style="color: #ff6b6b;">[08/2025]</span> One paper awarded Best Student Paper Finalist in ICBIR 2025.
 
 ***
 
-Publications
+Selected Publications
 ======
 
 **Journal Papers**
@@ -44,21 +46,19 @@ Education
 * M.Eng. in Artificial Intelligence, Tsinghua University, 2021-2024
 
 * B.Eng. in Robotics, Northeastern University, 2017-2021
-
 ***
 
 Awards & Honors
 ======
-* National Scholarship China, 2018, 2019
+* 1st Place, Soft Robotics Embodied Intelligence Challenge, IROS 2025
+
+* Best Student Paper Finalist, ICBIR 2025
 
 * Top 10 Honor Undergraduate Student, 2020
 
 * BSEF Outstanding Student Scholarship, 2020
 
-* 1st Place, Soft Robotics Embodied Intelligence Challenge, IROS 2025
-
-* Best Student Paper Finalist, ICBIR 2025 
-
+* National Scholarship China, 2018, 2019
 ***
 
 Teaching
