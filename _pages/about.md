@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yanjun LIU's Homepage"
+title: "Yanjun Liu, Owen / 刘彦君"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Yanjun Liu (Owen, 刘彦君) and I am currently a Ph.D. student at The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Hongliang Ren and Prof. Jiewen Lai. I obtained my Master’s degree from Tsinghua University in 2024, under the supervision of Prof. Wenming Yang, and my Bachelor’s degree from Northeastern University in 2021. From August 2024 to July 2025, I worked as a Research Assistant in the Department of Electronic Engineering at CUHK. 
-
-My research interests focus on the design and development of continuum robots, robotic control systems, and human-robot interaction, with a particular focus on their applications in minimally invasive surgery and endoscopic procedures. For inquiries or collaboration opportunities, you can contact me via email [lyj19990319@126.com](mailto:lyj19990319@126.com) or [yanjunliu@link.cuhk.edu.hk](mailto:yanjunliu@link.cuhk.edu.hk).
+I am a Ph.D. student from [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and [Prof. Jiewen Lai](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-lai-jiewen). My research interests include the design and development of continuum robots, robotic control systems, human-robot interaction and their applications in surgical procedures. For inquiries or collaboration opportunities, you can contact me via email [lyj19990319@126.com](mailto:lyj19990319@126.com) or [yanjunliu@link.cuhk.edu.hk](mailto:yanjunliu@link.cuhk.edu.hk).
 
 ***
 
 News
 ======
-
+[11/2025] Our team has won the Soft Robotics Embodied Intelligence Challenge in IROS 2025.
+[08/2025] One paper awarded Best Student Paper Finalist in ICBIR 2025.
 
 ***
 
@@ -25,9 +24,10 @@ Publications
 
 **Journal Papers**
 
-1. Jiewen Lai, Tian-ao Ren, Pengfei Ye, **Yanjun Liu** and Hongliang Ren*. "Gravity-Aware Proactive Joint-Level Compensation for Portable Soft Slender Robots Using a Single IMU and Real-Time Simulation, " International Journal of Robotics Research, 2025. [To appear]  
-2. **Y. Liu**, and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection," Signal Processing: Image Communication, vol. 124, pp. 117120, 2024. [[URL](https://www.sciencedirect.com/science/article/pii/S0923596524000213)]
-3. **Y. Liu**, W. Yang* and Q. Liao, "DiffVein: A Unified Diffusion Network for Finger Vein Segmentation and Authentication," IEEE Transactions on Circuits and Systems for Video Technology, vol. 2024, pp. 1.[[URL](https://ieeexplore.ieee.org/document/10632170)]
+1. Jiewen Lai†, Yanjun Liu†, Tian-Ao Ren, Yan Ma, Tao Zhang, Jeremy Teoh, Mark R. Cutkosky, Hongliang Ren* "Twistable Soft Continuum Robots". Journal.
+2. Jiewen Lai†, Tian-ao Ren†, Pengfei Ye, **Yanjun Liu** and Hongliang Ren*. "Gravity-Aware Proactive Joint-Level Compensation for Portable Soft Slender Robots Using a Single IMU and Real-Time Simulation," International Journal of Robotics Research, 2025. [To appear]  
+3. **Yanjun Liu**, and Wenming Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection," Signal Processing: Image Communication, vol. 124, pp. 117120, 2024. [[URL](https://www.sciencedirect.com/science/article/pii/S0923596524000213)]
+4. **Yanjun Liu**, Wenming Yang* and Qingmin Liao, "DiffVein: A Unified Diffusion Network for Finger Vein Segmentation and Authentication," IEEE Transactions on Circuits and Systems for Video Technology, vol. 2024, pp. 1.[[URL](https://ieeexplore.ieee.org/document/10632170)]
 
 **Conference Papers**
 
