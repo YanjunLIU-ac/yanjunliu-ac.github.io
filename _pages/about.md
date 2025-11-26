@@ -14,23 +14,9 @@ My research interests focus on the design and development of continuum robots, r
 
 ***
 
-Education
+News
 ======
-* Ph.D. student, The Chinese University of Hong Kong, 2025-Present
 
-* M.Eng. in Artificial Intelligence, Tsinghua University, 2021-2024
-
-* B.Eng. in Robotics, Northeastern University, 2017-2021
-
-***
-
-Awards & Honors
-======
-* National Scholarship, 2018, 2019
-
-* Top 10 Honor Undergraduate Student, 2020
-
-* BSEF Outstanding Student Scholarship, 2020
 
 ***
 
@@ -47,6 +33,36 @@ Publications
 
 1. F. Wang*, S. Sun and **Y. Liu**, "A Bi-directional Interactive System of Sign Language and Visual Speech Based on Portable Devices," in *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, 2019, pp. 1071-1076.[[URL](https://ieeexplore.ieee.org/abstract/document/8961831/)]
 2. F. Wang*, Z. Zeng, S. Sun and **Y. Liu**, "Diversity amplification and data generation of Chinese Sign Language based on Generative Adversarial Network," in *IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems (CYBER)*, 2020, pp. 139-145.[[URL](https://ieeexplore.ieee.org/abstract/document/9279125/)]
+
+***
+
+Education
+======
+* Ph.D. student, The Chinese University of Hong Kong, 2025-Present
+
+* M.Eng. in Artificial Intelligence, Tsinghua University, 2021-2024
+
+* B.Eng. in Robotics, Northeastern University, 2017-2021
+
+***
+
+Awards & Honors
+======
+* National Scholarship China, 2018, 2019
+
+* Top 10 Honor Undergraduate Student, 2020
+
+* BSEF Outstanding Student Scholarship, 2020
+
+* 1st Place, Soft Robotics Embodied Intelligence Challenge, IROS 2025
+
+* Best Student Paper Finalist, ICBIR 2025 
+
+***
+
+Teaching
+======
+* ENGG4701 Intelligent Interactive Robot Practice (2025 R1, Teaching Assistant)
 
 Projects
 ======
