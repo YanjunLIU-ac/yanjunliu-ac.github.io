@@ -46,6 +46,7 @@ Education
 * M.Eng. in Artificial Intelligence, Tsinghua University, 2021-2024
 
 * B.Eng. in Robotics, Northeastern University, 2017-2021
+
 ***
 
 Awards & Honors
@@ -59,6 +60,7 @@ Awards & Honors
 * BSEF Outstanding Student Scholarship, 2020
 
 * National Scholarship China, 2018, 2019
+
 ***
 
 Teaching
